@@ -26,7 +26,6 @@
       android:layout_height="match_parent"
       android:layout_width="match_parent"
       android:layout_marginTop="12dp"
-      android:paddingEnd="8dp"
       android:layout_marginBottom="12dp"
       android:orientation="vertical"
       tools:ignore="RtlSymmetry">
@@ -43,7 +42,7 @@
           android:text="@string/ahmed_hassan"
           android:textStyle="bold"
           android:textSize="16sp"
-            android:fontFamily="@font/dm_sans"
+          android:fontFamily="@font/dm_sans"
           android:textColor="@color/black"/>
           <TextView
               android:id="@+id/Hour"
@@ -54,7 +53,7 @@
               android:textColor="@color/white"
               android:textSize="12sp"
               android:fontFamily="@font/dm_sans"
-              android:layout_marginStart="106dp"
+              android:layout_marginStart="126dp"
               android:gravity="center" />
       </LinearLayout>
       <LinearLayout
@@ -83,7 +82,7 @@
               android:textSize="12sp"
               android:fontFamily="@font/dm_sans"
               android:textColor="@color/mint_black"
-              android:layout_marginStart="162dp"
+              android:layout_marginStart="180dp"
               android:gravity="end" />
       </LinearLayout>
       <LinearLayout
@@ -117,7 +116,7 @@
               android:layout_gravity="end"
               android:text="@string/_5_days_ago"
               android:textColor="@color/gray"
-              android:layout_marginStart="160dp"
+              android:layout_marginStart="179dp"
               android:textSize="12sp"
               android:fontFamily="@font/dm_sans"
               android:gravity="end" />
