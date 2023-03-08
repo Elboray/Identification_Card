@@ -7,7 +7,7 @@
         <entry key="..\:/Identification_Card/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.108" />
         <entry key="..\:/Identification_Card/app/src/main/res/drawable/shape_hour.xml" value="0.108" />
         <entry key="..\:/Identification_Card/app/src/main/res/drawable/shape_linear_layout.xml" value="0.108" />
-        <entry key="..\:/Identification_Card/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Identification_Card/app/src/main/res/layout/activity_main.xml" value="0.2" />
       </map>
     </option>
   </component>
@@ -16,5 +16,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.16" />
+      </ProjectState>
+    </option>
   </component>
 </project>
