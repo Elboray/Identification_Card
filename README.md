@@ -14,6 +14,11 @@ The app contains hardcoded values for the personal information fields.
 
 ![iden](https://user-images.githubusercontent.com/93487949/223858687-c203e8f7-bb57-4ad5-a427-5decdb62764e.PNG)
 
+# Installation
+
+Clone this repository and import into Android Studio
+git clone https://github.com/Elboray/Identification_Card.git
+
 # Usage
 
 To use this app, simply download and install it on an Android device. The app does not require any special permissions or features.
